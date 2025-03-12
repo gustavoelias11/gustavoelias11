@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Gustavo e sou estudante de Análise e Desenvolvimento de Sistemas</h2>
+<h2 align="left">Olá! Meu nome é Gustavo e sou estudante de Engenharia de Software</h2>
 
 ###
 
