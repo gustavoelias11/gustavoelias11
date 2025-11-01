@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Gustavo!</h2>
+<h2 align="left">Olá, Meu nome é Gustavo!</h2>
 
 <p>Software Engineering Student</p>
 
