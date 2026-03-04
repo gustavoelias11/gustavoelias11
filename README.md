@@ -1,43 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá!%20Sou%20o%20Gustavo%20Elias&fontSize=50&animation=fadeIn" width="100%">
+<div align="center">
+  <h1>👋 Olá, eu sou o Gustavo!</h1>
+  <p><b>Desenvolvedor Back-end | Estudante de Engenharia de Software | Entusiasta de Tecnologia</b></p>
+</div>
 
-### 👨‍💻 Desenvolvedor Back-end | Apaixonado por tecnologia
+<br/>
 
-Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e um pouco sobre a minha jornada no mundo da programação.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavomelias/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-- 🌱 Atualmente estudando e me aprofundando em **Java e Spring Boot**
-- 💡 Tenho conhecimentos sólidos em banco de dados **SQL Server**
-- 👯 Buscando aplicar meus conhecimentos em **projetos práticos e Open Source**
-- 💬 Me pergunte sobre **Java, Spring ou banco de dados**
-
----
-
-## 🛠️ Minhas Habilidades (Tech Stack)
-
-<p align="left">
+<div align="center">
+  <h2>🛠️ Meu Cinto de Utilidades</h2>
+  <p>Tecnologias que tenho conhecimento e utilizo nos meus projetos:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,html,css&theme=dark" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,github&perline=6&theme=dark" />
   </a>
-</p>
+  <br/>
+  <p><i>*Também possuo conhecimentos sólidos em SQL Server.</i></p>
+</div>
 
----
+<br/>
 
-## 📊 Minhas Estatísticas
+<div align="center">
+  <h2>🧐 Atualmente Aprendendo</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+  </a>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoelias11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoelias11&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoelias11&theme=dracula" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <h2>📊 Minhas Estatísticas</h2>
+  <img height="160em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=gustavoelias11&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoelias11&theme=dracula" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📫 Contato</h2>
+  <a href="https://www.linkedin.com/in/gustavomelias/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn do Gustavo"/>
+  </a>
+  <a href="mailto:gustavomanoelelias13@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gustavomanoelelias13@gmail.com"/>
+  </a>
+</div>
